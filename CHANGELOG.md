@@ -1,3 +1,9 @@
+## [0.2.0](https://github.com/CarlosIribar/sf-metaexplorer/compare/v0.1.0...v0.2.0) (2026-02-24)
+
+### Features
+
+- alias explorer ([7c6cd22](https://github.com/CarlosIribar/sf-metaexplorer/commit/7c6cd220d82771125edb455b2b4534baf46e0a65))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
