@@ -1,3 +1,9 @@
+## [0.2.2](https://github.com/CarlosIribar/sf-metaexplorer/compare/v0.2.1...v0.2.2) (2026-02-25)
+
+### Bug Fixes
+
+- visual bugs ([9ea0b18](https://github.com/CarlosIribar/sf-metaexplorer/commit/9ea0b181ec59f749a32e5eb258427dc3a48659ab))
+
 ## [0.2.1](https://github.com/CarlosIribar/sf-metaexplorer/compare/v0.2.0...v0.2.1) (2026-02-24)
 
 ### Bug Fixes
